@@ -1,0 +1,41 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+	{"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"hu.tagsoft.ttorrent.lite"},
+    {"id":5, "app":"com.teeonsoft.ztorrent"},
+    {"id":6, "app":"com.androfysolutions.torrentlite"},
+    {"id":7, "app":"intelligems.torrdroid"},
+    {"id":8, "app":"com.mobilityflow.torrent"},
+    {"id":9, "app":"co.we.torrent"},
+    {"id":10, "app":"com.bittorrent.client"},
+    {"id":11, "app":"com.bittorrent.bundle"},
+    {"id":12, "app":"com.vuze.torrent.downloader"},
+    {"id":13, "app":"com.utorrent.client.pro"},
+    {"id":14, "app":"com.delphicoder.flud"},
+    {"id":15, "app":"com.ap.transmission.btc"},
+    {"id":16, "app":"com.mobilityflow.torrent"},
+    {"id":17, "app":"net.yupol.transmissionremote.app"},
+    {"id":18, "app":"com.marutigroup.downtor"},
+    {"id":19, "app":"org.btorrent.hgcor"},
+    {"id":20, "app":"ru.jsql.android.torrent"}
+  ],
+  "free":[
+	{"id":0, "file":6, "city":"Silicon Valley","country":"United States","image":"unitedstates","ip":"149.28.205.184","active":"true","signal":"a"},
+	{"id":1, "file":4, "city":"New York","country":"United States","image":"unitedstates","ip":"104.238.130.74","active":"true","signal":"a"},
+	{"id":2, "file":3, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"95.179.196.16","active":"true","signal":"a"},
+	{"id":3, "file":5, "city":"Frankfurt","country":"Germany","image":"germany","ip":"140.82.33.7","active":"true","signal":"a"},	   	   
+	{"id":4, "file":0, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"209.250.255.86","active":"true","signal":"a"},
+	{"id":5, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"167.179.83.72","active":"true","signal":"a"},
+	{"id":6, "file":2, "city":"Shanghai","country":"China","image":"china","ip":"111.229.180.219","active":"true","signal":"b"}	 
+	]
+}
