@@ -31,7 +31,7 @@
   ],
   "free":[
 	{"id":0, "file":6, "city":"Silicon Valley","country":"United States","image":"unitedstates","ip":"149.28.205.184","active":"true","signal":"a"},
-	{"id":7, "file":7, "city":"Silicon Valley","country":"United States","image":"unitedstates","ip":"149.28.205.185","active":"true","signal":"a"},
+	{"id":7, "file":6, "city":"Silicon Valley","country":"United States","image":"unitedstates","ip":"149.28.205.184","active":"true","signal":"a"},
 	{"id":1, "file":4, "city":"New York","country":"United States","image":"unitedstates","ip":"104.238.130.74","active":"true","signal":"a"},
 	{"id":2, "file":3, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"95.179.196.16","active":"true","signal":"a"},
 	{"id":3, "file":5, "city":"Frankfurt","country":"Germany","image":"germany","ip":"140.82.33.7","active":"true","signal":"a"},	   	   
