@@ -36,6 +36,7 @@
 	{"id":3, "file":5, "city":"Frankfurt","country":"Germany","image":"germany","ip":"140.82.33.7","active":"true","signal":"a"},	   	   
 	{"id":4, "file":0, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"209.250.255.86","active":"true","signal":"a"},
 	{"id":5, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"167.179.83.72","active":"true","signal":"a"},
-	{"id":6, "file":2, "city":"Shanghai","country":"China","image":"china","ip":"111.229.180.219","active":"true","signal":"b"}	 
+	{"id":6, "file":2, "city":"Shanghai","country":"China","image":"china","ip":"111.229.180.219","active":"true","signal":"b"},
+    {"id":7, "file":6, "city":"Silicon Valley","country":"United States","image":"unitedstates","ip":"149.28.205.185","active":"true","signal":"a"}	
 	]
 }
